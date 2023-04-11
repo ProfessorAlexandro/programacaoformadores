@@ -3,5 +3,34 @@ header{
     background: #0B94BA;
     color: #FFFFFF;
 
+}
+.logo {
+
+    width: 200px;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.cabecalho{
+   
+    background: #0B94BA;
+
+}
+.listacabecalho {
+    display: flex;
+    margin-left: 60px;
+    position: relative;
+    left: 800px;
+
+}
+.lista{
+    background: #0B94BA;
+    margin: 50px;
+
+}
+
+.professora{
+
+    background-image:linear-gradient(#0B94BA,#FFFFFF)
 
 }
